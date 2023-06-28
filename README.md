@@ -1,6 +1,5 @@
-### Luke Schaefer
+### 🌴 Luke Schaefer 🌴
 
-I write a lot of software, most of it is very niche and hardly useful.
 
 <!--
 **lukeschaefer/lukeschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
